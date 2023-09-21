@@ -24,6 +24,6 @@
 [![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow%20%40YourGitHubUsername&style=social)](https://github.com/black99hard)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/yasir-bashir-6b3a8098?trk=contact-info)
 
-📧 Feel free to reach out to me at: your.email@example.com
+📧 Feel free to reach out to me at: yasirbashirsu@gmail.com
 
 🚀 Let's code, innovate, and make the digital world better and safer together! 🌍🔐
