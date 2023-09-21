@@ -1,16 +1,29 @@
-### Hi there 👋
+### 👨‍💻 Software Developer | 🌐 Network Engineer | 🔒 Cybersecurity Enthusiast
 
-<!--
-**black99hard/black99hard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Full-stack developer with expertise in:
+   - ReactJS 🌟
+   - Vue.js 🌟
+   - PHP 🌟
+   - JavaScript 🌟
+   - C Language 🌟
+   - Python (a little bit) 🌟
+   - CCNA Certified 🌟
 
-Here are some ideas to get you started:
+🛡️ Experienced in cybersecurity, including:
+   - Threat analysis and mitigation
+   - Network security strategies
+   - Ethical hacking techniques
+   - Cybersecurity best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working on exciting projects to create elegant and secure solutions.
+
+🌱 Continuously learning and exploring new technologies to stay ahead in the ever-evolving tech and cybersecurity landscape.
+
+📫 Let's connect and collaborate on amazing projects together! 👇
+
+[![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow%20%40YourGitHubUsername&style=social)](https://github.com/black99hard)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue)](https://www.linkedin.com/in/yasir-bashir-6b3a8098?trk=contact-info)
+
+📧 Feel free to reach out to me at: your.email@example.com
+
+🚀 Let's code, innovate, and make the digital world better and safer together! 🌍🔐
